@@ -1,0 +1,2902 @@
+Comparing files styles.css and STYLES-TEMPLATE.CSS
+***** styles.css
+06. Description 1
+
+08. Description 2
+***** STYLES-TEMPLATE.CSS
+06. Description 1
+07. Description 1 Details Lightbox
+08. Description 2
+*****
+
+***** styles.css
+10. Screenshots
+11. Reviews
+12. Statistics
+***** STYLES-TEMPLATE.CSS
+10. Screenshots
+11. Testimonials
+12. Statistics
+*****
+
+***** styles.css
+        font: 700 2.125rem/2.75rem "Open Sans", sans-serif;
+        text-align: center;
+}
+***** STYLES-TEMPLATE.CSS
+        font: 700 2.125rem/2.75rem "Open Sans", sans-serif;
+}
+*****
+
+***** styles.css
+
+.review-text {
+        font-style: italic;
+***** STYLES-TEMPLATE.CSS
+
+.testimonial-text {
+        font-style: italic;
+*****
+
+***** styles.css
+
+.review-author {
+        font-weight: 700;
+***** STYLES-TEMPLATE.CSS
+
+.testimonial-author {
+        font-weight: 700;
+*****
+
+***** styles.css
+
+.btn-solid-sm {
+        display: inline-block;
+        padding: 0.5rem 1.375rem 0.5rem 1.375rem;
+        border: 0.125rem solid #19ca94;
+        border-radius: 2rem;
+        background-color: #19ca94;
+        color: #fff;
+        font: 700 0.875rem/0 "Open Sans", sans-serif;
+        text-decoration: none;
+        transition: all 0.2s;
+}
+***** STYLES-TEMPLATE.CSS
+
+.btn-solid-lg:hover {
+        border: 0.125rem solid #ff556e;
+        background-color: transparent;
+        color: #ff556e;
+        text-decoration: none;
+}
+*****
+
+***** styles.css
+
+.btn-solid-lg:hover {
+        border: 0.125rem solid #ff556e;
+        background-color: transparent;
+        color: #ff556e;
+        text-decoration: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.btn-solid-lg .fab {
+        margin-right: 0.5rem;
+        font-size: 1.25rem;
+        line-height: 0;
+        vertical-align: top;
+}
+*****
+
+***** styles.css
+
+.btn-solid-sm:hover {
+        border: 0.125rem solid #19ca94;
+        background-color: transparent;
+        color: #19ca94;
+        text-decoration: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.btn-solid-lg .fab.fa-google-play {
+        font-size: 1rem;
+}
+*****
+
+***** styles.css
+
+.btn-solid-lg .fab {
+        margin-right: 0.5rem;
+        font-size: 1.25rem;
+        line-height: 0;
+        vertical-align: top;
+}
+***** STYLES-TEMPLATE.CSS
+
+.btn-outline-reg {
+        display: inline-block;
+        padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
+        border: 0.125rem solid #333;
+        border-radius: 2rem;
+        background-color: transparent;
+        color: #333;
+        font: 700 0.875rem/0 "Open Sans", sans-serif;
+        text-decoration: none;
+        transition: all 0.2s;
+}
+*****
+
+***** styles.css
+
+.btn-solid-lg .fab.fa-google-play {
+        font-size: 1rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.btn-outline-reg:hover {
+        border: 0.125rem solid #333;
+        background-color: #333;
+        color: #fff;
+        text-decoration: none;
+}
+*****
+
+***** styles.css
+
+.btn-outline-reg {
+        display: inline-block;
+        padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
+        border: 0.125rem solid #333;
+***** STYLES-TEMPLATE.CSS
+
+.btn-outline-lg {
+        display: inline-block;
+        padding: 1.5rem 2.375rem 1.5rem 2.375rem;
+        border: 0.125rem solid #333;
+*****
+
+***** styles.css
+
+.btn-outline-reg:hover {
+        border: 0.125rem solid #333;
+***** STYLES-TEMPLATE.CSS
+
+.btn-outline-lg:hover {
+        border: 0.125rem solid #333;
+*****
+
+***** styles.css
+
+.btn-outline-lg {
+        display: inline-block;
+        padding: 1.5rem 2.375rem 1.5rem 2.375rem;
+        border: 0.125rem solid #333;
+***** STYLES-TEMPLATE.CSS
+
+.btn-outline-sm {
+        display: inline-block;
+        padding: 1rem 1.5rem 1rem 1.5rem;
+        border: 0.125rem solid #333;
+*****
+
+***** styles.css
+
+.btn-outline-lg:hover {
+        border: 0.125rem solid #333;
+***** STYLES-TEMPLATE.CSS
+
+.btn-outline-sm:hover {
+        border: 0.125rem solid #333;
+*****
+
+***** styles.css
+
+.btn-outline-sm {
+        display: inline-block;
+        padding: 1rem 1.5rem 1rem 1.5rem;
+        border: 0.125rem solid #333;
+        border-radius: 2rem;
+        background-color: transparent;
+        color: #333;
+        font: 700 0.875rem/0 "Open Sans", sans-serif;
+        text-decoration: none;
+        transition: all 0.2s;
+}
+***** STYLES-TEMPLATE.CSS
+
+.form-group {
+        position: relative;
+        margin-bottom: 1.25rem;
+}
+*****
+
+***** styles.css
+
+.btn-outline-sm:hover {
+        border: 0.125rem solid #333;
+        background-color: #333;
+        color: #fff;
+        text-decoration: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.form-group.has-error.has-danger {
+        margin-bottom: 0.625rem;
+}
+*****
+
+***** styles.css
+
+.form-group {
+        position: relative;
+        margin-bottom: 1.25rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.form-group.has-error.has-danger .help-block.with-errors ul {
+        margin-top: 0.375rem;
+}
+*****
+
+***** styles.css
+
+.form-group.has-error.has-danger {
+        margin-bottom: 0.625rem;
+}
+
+.form-group.has-error.has-danger .help-block.with-errors ul {
+        margin-top: 0.375rem;
+}
+
+.label-control {
+***** STYLES-TEMPLATE.CSS
+
+.label-control {
+*****
+
+***** styles.css
+        animation-delay: -0.32s;
+        background-color: #19ca94;
+}
+***** STYLES-TEMPLATE.CSS
+        animation-delay: -0.32s;
+}
+*****
+
+***** styles.css
+        animation-delay: -0.16s;
+        background-color: #aa7eec;
+}
+***** STYLES-TEMPLATE.CSS
+        animation-delay: -0.16s;
+}
+*****
+
+***** styles.css
+
+.navbar-custom .navbar-brand.logo-text {
+        font: 700 2rem/1rem "Open Sans", sans-serif;
+        color: #333;
+        text-decoration: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .navbar-brand.logo-image img {
+    width: 6.6875rem;
+        height: 2.25rem;
+}
+*****
+
+***** styles.css
+
+.navbar-custom .navbar-nav {
+        margin-top: 0.75rem;
+        margin-bottom: 0.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .navbar-brand.logo-text {
+        font: 700 2rem/1rem "Open Sans", sans-serif;
+        color: #333;
+        text-decoration: none;
+}
+*****
+
+***** styles.css
+
+.navbar-custom .nav-item .nav-link {
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .navbar-nav {
+        margin-top: 0.75rem;
+        margin-bottom: 0.5rem;
+}
+
+.navbar-custom .nav-item .nav-link {
+*****
+
+***** styles.css
+.navbar-custom .nav-item .nav-link.active {
+        color: #19ca94;
+}
+***** STYLES-TEMPLATE.CSS
+.navbar-custom .nav-item .nav-link.active {
+        color: #ff556e;
+}
+*****
+
+***** styles.css
+
+@keyframes fadeDropdown {
+***** STYLES-TEMPLATE.CSS
+
+/* Dropdown Menu */
+.navbar-custom .dropdown:hover > .dropdown-menu {
+        display: block; /* this makes the dropdown menu stay open while hovering it */
+        min-width: auto;
+        animation: fadeDropdown 0.2s; /* required for the fade animation */
+}
+
+@keyframes fadeDropdown {
+*****
+
+***** styles.css
+
+.navbar-custom .nav-item .btn-outline-sm {
+        margin-top: 0.125rem;
+        margin-bottom: 1.375rem;
+        margin-left: 0.5rem;
+        border: 0.125rem solid #ff556e;
+        color: #ff556e;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .dropdown-toggle {
+        cursor: default;
+}
+*****
+
+***** styles.css
+
+.navbar-custom .nav-item .btn-outline-sm:hover {
+        border: 0.125rem solid #ff556e;
+        background-color: #ff556e;
+        color: #fff;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .dropdown-toggle:focus { /* removes dropdown outline on focus */
+        outline: 0;
+}
+*****
+
+***** styles.css
+
+.navbar-custom .navbar-toggler {
+        padding: 0;
+        border: none;
+        color: #333;
+        font-size: 2rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .dropdown-menu {
+        margin-top: 0;
+        border: none;
+        border-radius: 0.25rem;
+        background-color: #f7fafd;
+}
+*****
+
+***** styles.css
+
+.navbar-custom button[aria-expanded='false'] .navbar-toggler-awesome.fas.fa-times{
+        display: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .dropdown-item {
+        color: #333;
+        text-decoration: none;
+}
+*****
+
+***** styles.css
+
+.navbar-custom button[aria-expanded='false'] .navbar-toggler-awesome.fas.fa-bars{
+        display: inline-block;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .dropdown-item:hover {
+        background-color: #f7fafd;
+}
+*****
+
+***** styles.css
+
+.navbar-custom button[aria-expanded='true'] .navbar-toggler-awesome.fas.fa-bars{
+        display: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .dropdown-item .item-text {
+        font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
+}
+*****
+
+***** styles.css
+
+.navbar-custom button[aria-expanded='true'] .navbar-toggler-awesome.fas.fa-times{
+        display: inline-block;
+        margin-right: 0.125rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .dropdown-item:hover .item-text {
+        color: #ff556e;
+}
+*****
+
+***** styles.css
+
+
+/*********************/
+/*    04. Header     */
+/*********************/
+.header {
+        position: relative;
+        overflow: hidden;
+        padding-top: 8rem;
+        padding-bottom: 3rem;
+        background-color: #f7fafd;
+        text-align: center;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .dropdown-divider {
+        width: 100%;
+        height: 1px;
+        margin: 0.75rem auto 0.725rem auto;
+        border: none;
+        background-color: #c4d8dc;
+        opacity: 0.2;
+}
+/* end of dropdown menu */
+
+.navbar-custom .nav-item .btn-outline-sm {
+        margin-top: 0.125rem;
+        margin-bottom: 1.375rem;
+        margin-left: 0.5rem;
+        border: 0.125rem solid #ff556e;
+        color: #ff556e;
+}
+*****
+
+***** styles.css
+
+.header .text-container {
+        margin-bottom: 3rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .nav-item .btn-outline-sm:hover {
+        border: 0.125rem solid #ff556e;
+        background-color: #ff556e;
+        color: #fff;
+}
+*****
+
+***** styles.css
+
+.header h1 {
+        margin-bottom: 1rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom .navbar-toggler {
+        padding: 0;
+        border: none;
+        color: #333;
+        font-size: 2rem;
+}
+*****
+
+***** styles.css
+
+.header .p-heading {
+        margin-bottom: 2rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom button[aria-expanded='false'] .navbar-toggler-awesome.fas.fa-times{
+        display: none;
+}
+*****
+
+***** styles.css
+
+.header .btn-solid-lg {
+        margin-right: 0.5rem;
+        margin-bottom: 1.125rem;
+        margin-left: 0.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom button[aria-expanded='false'] .navbar-toggler-awesome.fas.fa-bars{
+        display: inline-block;
+}
+*****
+
+***** styles.css
+
+.header .deco-white-circle-1,
+.header .deco-white-circle-2,
+.header .deco-blue-circle,
+.header .deco-yellow-circle,
+.header .deco-green-diamond {
+        display: none;
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom button[aria-expanded='true'] .navbar-toggler-awesome.fas.fa-bars{
+        display: none;
+*****
+
+***** styles.css
+
+
+/******************************/
+/*     05. Small Features     */
+/******************************/
+.cards-1 {
+        padding-top: 0.5rem;
+        padding-bottom: 2rem;
+        background-color: #f7fafd;
+        text-align: center;
+}
+***** STYLES-TEMPLATE.CSS
+
+.navbar-custom button[aria-expanded='true'] .navbar-toggler-awesome.fas.fa-times{
+        display: inline-block;
+        margin-right: 0.125rem;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card {
+        max-width: 11rem;
+        margin-right: auto;
+        margin-bottom: 3rem;
+        margin-left: auto;
+        padding: 0;
+        border: none;
+        background-color: transparent;
+}
+***** STYLES-TEMPLATE.CSS
+
+
+/*********************/
+/*    04. Header     */
+/*********************/
+.header {
+        position: relative;
+        overflow: hidden;
+        padding-top: 8rem;
+        padding-bottom: 3rem;
+        background-color: #f7fafd;
+        text-align: center;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image {
+        width: 7.5rem;
+        height: 7.5rem;
+        margin-right: auto;
+        margin-bottom: 1.5rem;
+        margin-left: auto;
+        border-radius: 50%;
+        background-color: #ebe7fa;
+}
+***** STYLES-TEMPLATE.CSS
+
+.header .text-container {
+        margin-bottom: 3rem;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image .fas {
+        color: #aa7eec;
+        font-size: 3.25rem;
+        line-height: 7.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.header h1 {
+        margin-bottom: 1rem;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image.green {
+        background-color: #daf4ef;
+}
+***** STYLES-TEMPLATE.CSS
+
+.header .p-heading {
+        margin-bottom: 2rem;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image.green .fas {
+        color: #19ca94;
+}
+***** STYLES-TEMPLATE.CSS
+
+.header .btn-solid-lg {
+        margin-right: 0.5rem;
+        margin-bottom: 1.125rem;
+        margin-left: 0.5rem;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image.red {
+        background-color: #f8e5ea;
+}
+***** STYLES-TEMPLATE.CSS
+
+.header .deco-white-circle-1,
+.header .deco-white-circle-2,
+.header .deco-blue-circle,
+.header .deco-yellow-circle,
+.header .deco-green-diamond {
+        display: none;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image.red .fas {
+        color: #ff556e;
+}
+***** STYLES-TEMPLATE.CSS
+
+
+/******************************/
+/*     05. Small Features     */
+/******************************/
+.cards-1 {
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+        background-color: #f7fafd;
+        text-align: center;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image.yellow {
+        background-color: #f8f1de;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card {
+        max-width: 11rem;
+        margin-right: auto;
+        margin-bottom: 3rem;
+        margin-left: auto;
+        padding: 0;
+        border: none;
+        background-color: transparent;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image.yellow .fas {
+        color: #ffb30f;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image {
+        width: 7.5rem;
+        height: 7.5rem;
+        margin-right: auto;
+        margin-bottom: 1.5rem;
+        margin-left: auto;
+        border-radius: 50%;
+        background-color: #ebe7fa;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image.blue {
+        background-color: #e1f2fa;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image .fas {
+        color: #aa7eec;
+        font-size: 3.25rem;
+        line-height: 7.5rem;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-image.blue .fas {
+        color: #50b9e8;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image.green {
+        background-color: #daf4ef;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-body {
+        padding: 0;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image.green .fas {
+        color: #19ca94;
+}
+*****
+
+***** styles.css
+
+.cards-1 .card-title {
+        margin-bottom: 0.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image.red {
+        background-color: #f8e5ea;
+}
+*****
+
+***** styles.css
+
+
+/*****************************/
+/*     06. Description 1     */
+/*****************************/
+.basic-1 {
+        padding-top: 1rem;
+        background-image: linear-gradient(#f7fafd, lightblue);
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image.red .fas {
+        color: #ff556e;
+}
+*****
+
+***** styles.css
+
+.user-review {
+        background-image: linear-gradient(lightgreen, #e8eff6);
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image.yellow {
+        background-color: #f8f1de;
+}
+*****
+
+***** styles.css
+
+.basic-1 .image-container {
+        margin-top: 5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image.yellow .fas {
+        color: #ffb30f;
+}
+*****
+
+***** styles.css
+
+.basic-1 h2 {
+        margin-bottom: 1.5rem;
+        vertical-align: top;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image.blue {
+        background-color: #e1f2fa;
+}
+*****
+
+***** styles.css
+
+.basic-1 .list-unstyled {
+        margin-bottom: 1.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-image.blue .fas {
+        color: #50b9e8;
+}
+*****
+
+***** styles.css
+
+.basic-1 .list-unstyled .fas {
+        color: #777;
+        font-size: 0.5rem;
+        line-height: 1.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-body {
+        padding: 0;
+}
+*****
+
+***** styles.css
+
+.basic-1 .list-unstyled .media-body {
+        margin-left: 0.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-1 .card-title {
+        margin-bottom: 0.5rem;
+}
+*****
+
+***** styles.css
+
+/************************/
+/*     09. News Feed    */
+/************************/
+.basic-2 {
+        background-image: linear-gradient(lightblue, lightgreen);
+        padding-block: 10px;
+}
+***** STYLES-TEMPLATE.CSS
+
+/*****************************/
+/*     06. Description 1     */
+/*****************************/
+.basic-1 {
+        padding-top: 3rem;
+        padding-bottom: 8rem;
+        background-color: #f7fafd;
+}
+*****
+
+***** styles.css
+
+.basic-2 h2 {
+        text-align: center;
+        color: #333;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-1 .image-container {
+        margin-bottom: 5rem;
+}
+*****
+
+***** styles.css
+
+.basic-2 .li-space-lg li {
+        margin-bottom: 0.875rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-1 h2 {
+        margin-bottom: 1.5rem;
+}
+*****
+
+***** styles.css
+
+.basic-2 .li-space-lg.first li:last-of-type  {
+        margin-bottom: 4rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-1 .list-unstyled {
+        margin-bottom: 1.75rem;
+}
+*****
+
+***** styles.css
+
+
+.basic-2 .media-body h4 {
+        margin-bottom: 0.25rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-1 .list-unstyled .fas {
+        color: #777;
+        font-size: 0.5rem;
+        line-height: 1.75rem;
+}
+*****
+
+***** styles.css
+
+.basic-2 img {
+        display: block;
+        width: 100%;
+        max-width: 20%;
+        margin-right: auto;
+        margin-bottom: 5rem;
+        margin-left: auto;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-1 .list-unstyled .media-body {
+        margin-left: 0.5rem;
+}
+*****
+
+***** styles.css
+
+/***************************/
+/*     10. Screenshots     */
+/***************************/
+
+.boxes {
+        width: 100%;
+        height: 300px;
+        background-color: #f7fafd;
+        opacity: 0.4;
+        text-align: center;
+        padding-top: 150px;
+  }
+ 
+.slider .swiper-button-prev,
+.slider .swiper-button-next {
+        top: 50%;
+        width: auto;
+}
+***** STYLES-TEMPLATE.CSS
+
+/**********************************************/
+/*     07. Description 1 Details Lightbox     */
+/**********************************************/
+.lightbox-basic {
+        position: relative;
+        max-width: 71.875rem;
+        margin: 2.5rem auto;
+        padding: 3rem 1rem;
+        background-color: #fff;
+        text-align: left;
+}
+*****
+
+***** styles.css
+
+.slider .swiper-button-prev:focus,
+.slider .swiper-button-next:focus {
+        /* even if you can't see it chrome you can see it on mobile device */
+        outline: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic .image-container {
+        margin-bottom: 3rem;
+        text-align: center;
+}
+*****
+
+***** styles.css
+
+.slider .swiper-button-prev {
+        left: -0.5rem;
+        background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewB
+ox%3D'0%200%2028%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'
+%23777777'%2F%3E%3C%2Fsvg%3E");
+        background-size: 1.125rem 1.75rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic h3 {
+        margin-bottom: 0.5rem;
+}
+*****
+
+***** styles.css
+
+.slider .swiper-button-next {
+        right: -0.5rem;
+        background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewB
+ox%3D'0%200%2028%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'
+%23777777'%2F%3E%3C%2Fsvg%3E");
+        background-size: 1.125rem 1.75rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic hr {
+        width: 2.75rem;
+        margin-top: 0.125rem;
+        margin-bottom: 1rem;
+        margin-left: 0;
+        border-top: 0.125rem solid #e0e0e0;
+}
+*****
+
+***** styles.css
+
+
+/****************************/
+/*     11. Reviews     */
+/****************************/
+.cards-2 {
+        padding-top: 7rem;
+        padding-bottom: 3rem;
+        text-align: center;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic h4 {
+        margin-top: 1.75rem;
+        margin-bottom: 0.625rem;
+}
+*****
+
+***** styles.css
+
+.cards-2 h2 {
+        margin-bottom: 3.25rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic .list-unstyled {
+        margin-bottom: 1.5rem;
+}
+*****
+
+***** styles.css
+
+.cards-2 .card {
+        max-width: 22rem;
+        margin-right: auto;
+        margin-bottom: 4.75rem;
+        margin-left: auto;
+        border: 0;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic .list-unstyled .far {
+        color: #19ca94;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+}
+*****
+
+***** styles.css
+
+.cards-2, .fa-star {
+        margin-right: 0.25rem;
+        color: #ffb30f;
+        font-size: 1.375rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic .list-unstyled .media-body {
+        margin-left: 0.625rem;
+}
+*****
+
+***** styles.css
+
+.cards-2 .review-line {
+        width: 3rem;
+        margin-bottom: 1rem;
+        border-top: 0.125rem solid #e0e0e0;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic .list-unstyled {
+        margin-bottom: 1.5rem;
+}
+*****
+
+***** styles.css
+
+.cards-2 .card-body {
+        padding: 0;
+}
+***** STYLES-TEMPLATE.CSS
+
+/* Action Button */
+.lightbox-basic .btn-solid-reg.mfp-close {
+        position: relative;
+        width: auto;
+        height: auto;
+        color: #fff;
+        opacity: 1;
+}
+*****
+
+***** styles.css
+
+.cards-2 .review-text {
+        margin-bottom: 0.625rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic .btn-solid-reg.mfp-close:hover {
+        color: #ff556e;
+}
+/* end of action Button */
+
+/* Back Button */
+.lightbox-basic .btn-outline-reg.mfp-close.as-button {
+        position: relative;
+        display: inline-block;
+        width: auto;
+        height: auto;
+        margin-left: 0.375rem;
+        padding: 1.25rem 2.25rem 1.25rem 2.25rem;
+        border: 0.125rem solid #333;
+        color: #333;
+        opacity: 1;
+}
+*****
+
+***** styles.css
+
+.cards-2 .review-author {
+        color: #333;
+}
+
+.cards-2 .image-container {
+        margin-bottom: 5.25rem;
+        padding: 2.5rem 2rem 0 2rem;
+        border-radius: 0.5rem;
+        background-color: #fff;
+}
+
+.cards-2 .image-container img {
+        margin-right: 1rem;
+        margin-bottom: 2.5rem;
+        margin-left: 1rem;
+}
+
+***** STYLES-TEMPLATE.CSS
+
+.lightbox-basic .btn-outline-reg.mfp-close.as-button:hover {
+        color: #fff;
+}
+/* end of back button */
+
+/* Close X Button */
+.lightbox-basic button.mfp-close.x-button {
+        position: absolute;
+        top: -0.125rem;
+        right: -0.125rem;
+        width: 2.75rem;
+        height: 2.75rem;
+        color: #555;
+}
+/* end of close x button */
+
+*****
+
+***** styles.css
+
+/**************************/
+/*     12. Statistics     */
+/**************************/
+.counter {
+        padding-top: 8rem;
+        padding-bottom: 5rem;
+        background-color: #e8eff6;
+        text-align: center;
+}
+***** STYLES-TEMPLATE.CSS
+
+/****************************/
+/*     08. Description 2    */
+/****************************/
+.tabs {
+        padding-top: 8rem;
+        padding-bottom: 8rem;
+        background-color: #e8eff6;
+}
+*****
+
+***** styles.css
+
+.counter #counter {
+        margin-bottom: 0.75rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .tabs-container {
+        margin-bottom: 5rem;
+}
+*****
+
+***** styles.css
+
+.counter #counter .cell {
+        display: inline-block;
+        width: 6.25rem;
+        margin-right: 1.5rem;
+        margin-bottom: 2rem;
+        margin-left: 1.5rem;
+        vertical-align: top;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .nav-tabs {
+        margin-bottom: 1.125rem;
+        border: none;
+}
+*****
+
+***** styles.css
+
+.counter #counter .fas {
+        margin-bottom: 0.875rem;
+        font-size: 2.5rem;
+        color: #aa7eec;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .nav-item {
+        width: 100%;
+        margin-bottom: 0.75rem;
+        text-align: center;
+}
+*****
+
+***** styles.css
+
+.counter #counter .fas.green {
+        color: #19ca94;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .nav-link {
+        padding: 0.5rem 1.5rem;
+        border-radius: 0;
+        background-color: #f7fafd;
+        color: #777;
+        font-weight: 700;
+        font-size: 1.125rem;
+        text-decoration: none;
+        transition: all 0.2s ease;
+}
+*****
+
+***** styles.css
+
+.counter #counter .fas.red {
+        color: #ff556e;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .nav-link.active {
+        background-color: #9a67e7;
+        color: #fff;
+}
+*****
+
+***** styles.css
+
+.counter #counter .fas.yellow {
+        color: #ffb30f;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .nav-link:hover {
+        background-color: #9a67e7;
+        color: #fff;
+}
+*****
+
+***** styles.css
+
+.counter #counter .fas.blue {
+        color: #50b9e8;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .nav-link .fas,
+.tabs .nav-link .far {
+        margin-right: 0.375rem;
+}
+*****
+
+***** styles.css
+
+.counter #counter .counter-value {
+        color: #333;
+        font-weight: 700;
+        font-size: 3.5rem;
+        line-height: 4.25rem;
+        vertical-align: middle;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .li-space-lg li {
+        margin-bottom: 0.875rem;
+}
+*****
+
+***** styles.css
+
+.counter #counter .counter-info {
+        margin-bottom: 0;
+        vertical-align: middle;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .list-unstyled .fas,
+.tabs .list-unstyled .far {
+        color: #19ca94;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+}
+*****
+
+***** styles.css
+
+
+/************************/
+/*     13. Download     */
+/************************/
+.basic-3 {
+        position: relative;
+        overflow: hidden;
+        padding-top: 8rem;
+        padding-bottom: 8rem;
+        background-color: #f7fafd;
+        text-align: center;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs .list-unstyled .media-body {
+        margin-left: 0.625rem;
+}
+*****
+
+***** styles.css
+
+.basic-3 .image-container {
+        margin-bottom: 2rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs #tab-1 .list-unstyled {
+        margin-bottom: 1.5rem;
+}
+*****
+
+***** styles.css
+
+.basic-3 .p-large {
+        margin-bottom: 1.75rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.tabs #tab-1 .btn-solid-reg {
+        margin-right: 0.5rem;
+}
+*****
+
+***** styles.css
+
+.basic-3 .btn-solid-lg {
+        margin-right: 0.5rem;
+        margin-bottom: 1.125rem;
+        margin-left: 0.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+
+/************************/
+/*     09. Features     */
+/************************/
+.basic-2 {
+        padding-top: 7rem;
+        padding-bottom: 5rem;
+        background-color: #f7fafd;
+}
+*****
+
+***** styles.css
+
+.basic-3 .deco-white-circle-1,
+.basic-3 .deco-white-circle-2,
+.basic-3 .deco-blue-circle,
+.basic-3 .deco-yellow-circle,
+.basic-3 .deco-green-diamond {
+        display: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 h2 {
+        margin-bottom: 0.875rem;
+        text-align: center;
+}
+*****
+
+***** styles.css
+
+
+
+/**********************/
+/*     14. Footer     */
+/**********************/
+.footer {
+        padding-top: 4rem;
+        padding-bottom: 1rem;
+        border-top: 1px solid #c8d4d6;
+        background-color: #f7fafd;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .li-space-lg li {
+        margin-bottom: 1.375rem;
+}
+*****
+
+***** styles.css
+
+.footer p,
+.footer h5,
+.footer ul,
+.footer a {
+        color: #999;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .li-space-lg.first li:last-of-type  {
+        margin-bottom: 4rem;
+}
+*****
+
+***** styles.css
+
+.footer a {
+        text-decoration: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .fa-stack {
+        width: 2em;
+        margin-right: 0.625rem;
+        font-size: 1.25rem;
+}
+*****
+
+***** styles.css
+
+.footer .footer-col {
+        display: inline-block;
+        width: 14.5rem;
+    margin-right: 1rem;
+        margin-bottom: 1.5rem;
+    vertical-align: top;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .fa-stack-2x {
+        color: #aa7eec;
+}
+*****
+
+***** styles.css
+
+.footer h5 {
+        margin-bottom: 0.625rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .fa-stack-2x.green {
+        color: #19ca94;
+}
+*****
+
+***** styles.css
+
+.footer .li-space-lg li {
+        margin-bottom: 0.375rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .fa-stack-2x.red {
+        color: #ff556e;
+}
+*****
+
+***** styles.css
+
+.footer .list-unstyled .fab,
+.footer .list-unstyled .fas {
+        width: 0.875rem;
+        font-size: 0.875rem;
+        line-height: 1.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .fa-stack-2x.yellow {
+        color: #ffb30f;
+}
+*****
+
+***** styles.css
+
+.footer .list-unstyled .media-body {
+        margin-left: 0.625rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .fa-stack-2x.blue {
+        color: #50b9e8;
+}
+*****
+
+***** styles.css
+
+.footer .fa-stack {
+        width: 2em;
+        margin-bottom: 0.75rem;
+        margin-right: 0.375rem;
+        font-size: 1.25rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .fa-stack-1x {
+        color: #fff;
+}
+*****
+
+***** styles.css
+
+.footer .fa-stack .fa-stack-1x {
+    color: #fff;
+        transition: all 0.2s ease;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 .media-body h4 {
+        margin-bottom: 0.25rem;
+}
+*****
+
+***** styles.css
+
+.footer .fa-stack .fa-stack-2x {
+        color: #999;
+        transition: all 0.2s ease;
+}
+***** STYLES-TEMPLATE.CSS
+
+.basic-2 img {
+        display: block;
+        width: 100%;
+        max-width: 20rem;
+        margin-right: auto;
+        margin-bottom: 5rem;
+        margin-left: auto;
+}
+*****
+
+***** styles.css
+
+.footer .fa-stack:hover .fa-stack-1x {
+        color: #fff;
+}
+***** STYLES-TEMPLATE.CSS
+
+
+/***************************/
+/*     10. Screenshots     */
+/***************************/
+.slider {
+        padding-top: 8rem;
+        padding-bottom: 8rem;
+        background-color: #e8eff6;
+}
+*****
+
+***** styles.css
+
+.footer .fa-stack:hover .fa-stack-2x {
+    color: #555;
+}
+***** STYLES-TEMPLATE.CSS
+
+.slider .slider-container {
+        position: relative;
+}
+*****
+
+***** styles.css
+
+
+/*************************/
+/*     15. Copyright     */
+/*************************/
+.copyright {
+        padding-bottom: 0.75rem;
+        background-color: #f7fafd;
+        text-align: center;
+***** STYLES-TEMPLATE.CSS
+
+.slider .swiper-container {
+        position: static;
+        width: 90%;
+        text-align: center;
+*****
+
+***** styles.css
+
+.copyright p,
+.copyright a {
+        color: #999;
+}
+***** STYLES-TEMPLATE.CSS
+
+.slider .swiper-button-prev,
+.slider .swiper-button-next {
+        top: 50%;
+        width: 1.125rem;
+}
+*****
+
+***** styles.css
+
+.copyright a {
+        text-decoration: none;
+}
+***** STYLES-TEMPLATE.CSS
+
+.slider .swiper-button-prev:focus,
+.slider .swiper-button-next:focus {
+        /* even if you can't see it chrome you can see it on mobile device */
+        outline: none;
+}
+*****
+
+***** styles.css
+
+
+/**********************************/
+/*     16. Back To Top Button     */
+/**********************************/
+a.back-to-top {
+        position: fixed;
+        z-index: 999;
+        right: 0.75rem;
+        bottom: 0.75rem;
+        display: none;
+        width: 2.625rem;
+        height: 2.625rem;
+        border-radius: 1.875rem;
+        background: #333 url("../images/up-arrow.png") no-repeat center 47%;
+        background-size: 1.125rem 1.125rem;
+        text-indent: -9999px;
+}
+***** STYLES-TEMPLATE.CSS
+
+.slider .swiper-button-prev {
+        left: -0.5rem;
+        background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewB
+ox%3D'0%200%2028%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'
+%23777777'%2F%3E%3C%2Fsvg%3E");
+        background-size: 1.125rem 1.75rem;
+}
+*****
+
+***** styles.css
+
+a:hover.back-to-top {
+        background-color: #555; 
+}
+***** STYLES-TEMPLATE.CSS
+
+.slider .swiper-button-next {
+        right: -0.5rem;
+        background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewB
+ox%3D'0%200%2028%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'
+%23777777'%2F%3E%3C%2Fsvg%3E");
+        background-size: 1.125rem 1.75rem;
+}
+*****
+
+***** styles.css
+
+/***************************/
+/*     17. Extra Pages     */
+/***************************/
+.ex-header {
+        padding-top: 8rem;
+        padding-bottom: 5rem;
+        background-color: #f7fafd;
+***** STYLES-TEMPLATE.CSS
+
+/****************************/
+/*     11. Testimonials     */
+/****************************/
+.cards-2 {
+        padding-top: 7rem;
+        padding-bottom: 3rem;
+        background-color: #f7fafd;
+*****
+
+***** styles.css
+
+.ex-basic-1 {
+        padding-top: 2rem;
+        padding-bottom: 0.875rem;
+        background-color: #e8eff6;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 h2 {
+        margin-bottom: 3.25rem;
+}
+*****
+
+***** styles.css
+
+.ex-basic-1 .breadcrumbs {
+        margin-bottom: 1.125rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 .card {
+        max-width: 22rem;
+        margin-right: auto;
+        margin-bottom: 4.75rem;
+        margin-left: auto;
+        border: 0;
+        background-color: transparent;
+}
+*****
+
+***** styles.css
+
+.ex-basic-1 .breadcrumbs .fa {
+        margin-right: 0.5rem;
+        margin-left: 0.625rem;
+        font-size: 0.875rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 .fa-star {
+        margin-right: 0.25rem;
+        color: #ffb30f;
+        font-size: 1.375rem;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 {
+        padding-top: 4.75rem;
+        padding-bottom: 4rem;
+        background-color: #f7fafd;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 .testimonial-line {
+        width: 3rem;
+        margin-bottom: 1rem;
+        border-top: 0.125rem solid #e0e0e0;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 h3 {
+        margin-bottom: 1rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 .card-body {
+        padding: 0;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .text-container {
+        margin-bottom: 3.625rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 .testimonial-text {
+        margin-bottom: 0.625rem;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .text-container.last {
+        margin-bottom: 0;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 .testimonial-author {
+        color: #333;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .text-container.dark {
+        padding: 1.625rem 1.5rem 0.75rem 2rem;
+        background-color: #e8eff6;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 .image-container {
+        margin-bottom: 5.25rem;
+        padding: 2.5rem 2rem 0 2rem;
+        border-radius: 0.5rem;
+        background-color: #fff;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .image-container-large {
+        margin-bottom: 4rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.cards-2 .image-container img {
+        margin-right: 1rem;
+        margin-bottom: 2.5rem;
+        margin-left: 1rem;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .image-container-large img {
+        border-radius: 0.375rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+
+/**************************/
+/*     12. Statistics     */
+/**************************/
+.counter {
+        padding-top: 8rem;
+        padding-bottom: 5rem;
+        background-color: #e8eff6;
+        text-align: center;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .image-container-small img {
+        border-radius: 0.375rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.counter #counter {
+        margin-bottom: 0.75rem;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .list-unstyled .fas {
+        color: #777;
+        font-size: 0.5rem;
+        line-height: 1.75rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.counter #counter .cell {
+        display: inline-block;
+        width: 6.25rem;
+        margin-right: 1.5rem;
+        margin-bottom: 2rem;
+        margin-left: 1.5rem;
+        vertical-align: top;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .list-unstyled .media-body {
+        margin-left: 0.625rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.counter #counter .fas {
+        margin-bottom: 0.875rem;
+        font-size: 2.5rem;
+        color: #aa7eec;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .form-container {
+        margin-top: 3rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.counter #counter .fas.green {
+        color: #19ca94;
+}
+*****
+
+***** styles.css
+
+.ex-basic-2 .btn-solid-reg {
+        margin-top: 1.5rem;
+}
+***** STYLES-TEMPLATE.CSS
+
+.counter #counter .fas.red {
+        color: #ff556e;
+}
+*****
+
+***** styles.css
+
+
+/*****************************/
+/*     18. Media Queries     */
+/*****************************/ 
+/* Min-width 768px */
+@media (min-width: 768px) {
+        
+        /* Header */
+        .header .text-container {
+                margin-bottom: 6rem;
+        }
+
+        .header .btn-solid-lg {
+                margin-bottom: 0;
+                margin-left: 0;
+        }
+        /* end of header */
+
+***** STYLES-TEMPLATE.CSS
+
+.counter #counter .fas.yellow {
+        color: #ffb30f;
+}
+
+.counter #counter .fas.blue {
+        color: #50b9e8;
+}
+
+.counter #counter .counter-value {
+        color: #333;
+        font-weight: 700;
+        font-size: 3.5rem;
+        line-height: 4.25rem;
+        vertical-align: middle;
+}
+
+.counter #counter .counter-info {
+        margin-bottom: 0;
+        vertical-align: middle;
+}
+
+*****
+
+***** styles.css
+
+        /* Small Features */
+        .cards-1 .card {
+                display: inline-block;
+                margin-right: 1rem;
+                margin-left: 1rem;
+                width: 11rem;
+                max-width: 100%;
+                vertical-align: top;
+        }
+        /* end of small features */
+
+***** STYLES-TEMPLATE.CSS
+
+/************************/
+/*     13. Download     */
+/************************/
+.basic-3 {
+        position: relative;
+        overflow: hidden;
+        padding-top: 8rem;
+        padding-bottom: 8rem;
+        background-color: #f7fafd;
+        text-align: center;
+}
+
+.basic-3 .image-container {
+        margin-bottom: 2rem;
+}
+
+.basic-3 .p-large {
+        margin-bottom: 1.75rem;
+}
+
+.basic-3 .btn-solid-lg {
+        margin-right: 0.5rem;
+        margin-bottom: 1.125rem;
+        margin-left: 0.5rem;
+}
+
+.basic-3 .deco-white-circle-1,
+.basic-3 .deco-white-circle-2,
+.basic-3 .deco-blue-circle,
+.basic-3 .deco-yellow-circle,
+.basic-3 .deco-green-diamond {
+        display: none;
+}
+
+*****
+
+***** styles.css
+
+        /* Description 2 */
+        .tabs .nav-item {
+                width: auto;
+                margin-right: 0.625rem;
+        }
+        /* end of description 2 */
+
+***** STYLES-TEMPLATE.CSS
+
+
+/**********************/
+/*     14. Footer     */
+/**********************/
+.footer {
+        padding-top: 4rem;
+        padding-bottom: 1rem;
+        border-top: 1px solid #c8d4d6;
+        background-color: #f7fafd;
+}
+
+.footer p,
+.footer h5,
+.footer ul,
+.footer a {
+        color: #999;
+}
+
+.footer a {
+        text-decoration: none;
+}
+
+.footer .footer-col {
+        display: inline-block;
+        width: 14.5rem;
+    margin-right: 1rem;
+        margin-bottom: 1.5rem;
+    vertical-align: top;
+}
+
+.footer h5 {
+        margin-bottom: 0.625rem;
+}
+
+.footer .li-space-lg li {
+        margin-bottom: 0.375rem;
+}
+
+.footer .list-unstyled .fab,
+.footer .list-unstyled .fas {
+        width: 0.875rem;
+        font-size: 0.875rem;
+        line-height: 1.5rem;
+}
+
+.footer .list-unstyled .media-body {
+        margin-left: 0.625rem;
+}
+
+.footer .fa-stack {
+        width: 2em;
+        margin-bottom: 0.75rem;
+        margin-right: 0.375rem;
+        font-size: 1.25rem;
+}
+
+.footer .fa-stack .fa-stack-1x {
+    color: #fff;
+        transition: all 0.2s ease;
+}
+
+.footer .fa-stack .fa-stack-2x {
+        color: #999;
+        transition: all 0.2s ease;
+}
+
+.footer .fa-stack:hover .fa-stack-1x {
+        color: #fff;
+}
+
+.footer .fa-stack:hover .fa-stack-2x {
+    color: #555;
+}
+
+*****
+
+***** styles.css
+
+        /* Screenshots */
+        .slider .swiper-button-prev {
+                left: -0.625rem;
+        }
+        
+        .slider .swiper-button-next {
+                right: -0.625rem;
+        }
+        /* end of screenshots */
+
+***** STYLES-TEMPLATE.CSS
+
+/*************************/
+/*     15. Copyright     */
+/*************************/
+.copyright {
+        padding-bottom: 0.75rem;
+        background-color: #f7fafd;
+        text-align: center;
+}
+
+.copyright p,
+.copyright a {
+        color: #999;
+}
+
+.copyright a {
+        text-decoration: none;
+}
+
+*****
+
+***** styles.css
+
+        /* Download */
+        .basic-3 .btn-solid-lg {
+                margin-bottom: 0;
+                margin-left: 0;
+        }
+        /* end of download */
+
+***** STYLES-TEMPLATE.CSS
+
+/**********************************/
+/*     16. Back To Top Button     */
+/**********************************/
+a.back-to-top {
+        position: fixed;
+        z-index: 999;
+        right: 0.75rem;
+        bottom: 0.75rem;
+        display: none;
+        width: 2.625rem;
+        height: 2.625rem;
+        border-radius: 1.875rem;
+        background: #333 url("../images/up-arrow.png") no-repeat center 47%;
+        background-size: 1.125rem 1.125rem;
+        text-indent: -9999px;
+}
+
+a:hover.back-to-top {
+        background-color: #555; 
+}
+
+*****
+
+***** styles.css
+
+        /* Extra Pages */
+        .ex-header {
+                padding-top: 11rem;
+                padding-bottom: 9rem;
+        }
+
+        .ex-basic-2 .text-container.dark {
+                padding: 2.5rem 3rem 2rem 3rem;
+        }
+
+        .ex-basic-2 .form-container {
+                margin-top: 0;
+        }
+        /* end of extra pages */
+}
+/* end of min-width 768px */
+
+***** STYLES-TEMPLATE.CSS
+
+/***************************/
+/*     17. Extra Pages     */
+/***************************/
+.ex-header {
+        padding-top: 8rem;
+        padding-bottom: 5rem;
+        background-color: #f7fafd;
+        text-align: center;
+}
+
+.ex-basic-1 {
+        padding-top: 2rem;
+        padding-bottom: 0.875rem;
+        background-color: #e8eff6;
+}
+
+.ex-basic-1 .breadcrumbs {
+        margin-bottom: 1.125rem;
+}
+
+.ex-basic-1 .breadcrumbs .fa {
+        margin-right: 0.5rem;
+        margin-left: 0.625rem;
+        font-size: 0.875rem;
+}
+
+.ex-basic-2 {
+        padding-top: 4.75rem;
+        padding-bottom: 4rem;
+        background-color: #f7fafd;
+}
+
+.ex-basic-2 h3 {
+        margin-bottom: 1rem;
+}
+
+.ex-basic-2 .text-container {
+        margin-bottom: 3.625rem;
+}
+
+.ex-basic-2 .text-container.last {
+        margin-bottom: 0;
+}
+
+.ex-basic-2 .text-container.dark {
+        padding: 1.625rem 1.5rem 0.75rem 2rem;
+        background-color: #e8eff6;
+}
+
+.ex-basic-2 .image-container-large {
+        margin-bottom: 4rem;
+}
+
+.ex-basic-2 .image-container-large img {
+        border-radius: 0.375rem;
+}
+
+.ex-basic-2 .image-container-small img {
+        border-radius: 0.375rem;
+}
+
+.ex-basic-2 .list-unstyled .fas {
+        color: #777;
+        font-size: 0.5rem;
+        line-height: 1.75rem;
+}
+
+.ex-basic-2 .list-unstyled .media-body {
+        margin-left: 0.625rem;
+}
+
+.ex-basic-2 .form-container {
+        margin-top: 3rem;
+}
+
+.ex-basic-2 .btn-solid-reg {
+        margin-top: 1.5rem;
+}
+
+*****
+
+***** styles.css
+
+/* Min-width 992px */
+@media (min-width: 992px) {
+        
+        /* General Styles */
+        .p-heading {
+                width: 80%;
+                margin-right: auto;
+                margin-left: auto;
+        }
+***** STYLES-TEMPLATE.CSS
+
+/*****************************/
+/*     18. Media Queries     */
+/*****************************/ 
+/* Min-width 768px */
+@media (min-width: 768px) {
+        
+        /* Header */
+        .header .text-container {
+                margin-bottom: 6rem;
+        }
+*****
+
+***** styles.css
+
+        h1 {
+                font-size: 3rem;
+                line-height: 3.875rem;
+        }
+        
+        h2 {
+                font-size: 2.5rem;
+                line-height: 3.25rem;
+        }
+        /* end of general styles */
+
+***** STYLES-TEMPLATE.CSS
+
+        .header .btn-solid-lg {
+                margin-bottom: 0;
+                margin-left: 0;
+        }
+        /* end of header */
+
+*****
+
+***** styles.css
+
+        /* Navigation */
+        .navbar-custom {
+                padding: 2.125rem 1.5rem 2.125rem 2rem;
+        background: transparent;
+                box-shadow: none;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        /* Small Features */
+        .cards-1 .card {
+                display: inline-block;
+                margin-right: 1rem;
+                margin-left: 1rem;
+                width: 11rem;
+                max-width: 100%;
+                vertical-align: top;
+        }
+        /* end of small features */
+
+
+        /* Description 2 */
+        .tabs .nav-item {
+                width: auto;
+                margin-right: 0.625rem;
+        }
+        /* end of description 2 */
+
+
+        /* Screenshots */
+        .slider .swiper-button-prev {
+                left: -0.625rem;
+        }
+*****
+
+***** styles.css
+        
+        .navbar-custom .navbar-nav {
+                margin-top: 0;
+                margin-bottom: 0;
+        }
+***** STYLES-TEMPLATE.CSS
+        
+        .slider .swiper-button-next {
+                right: -0.625rem;
+        }
+        /* end of screenshots */
+
+
+        /* Download */
+        .basic-3 .btn-solid-lg {
+                margin-bottom: 0;
+                margin-left: 0;
+        }
+        /* end of download */
+
+
+        /* Extra Pages */
+        .ex-header {
+                padding-top: 11rem;
+                padding-bottom: 9rem;
+        }
+*****
+
+***** styles.css
+
+        .navbar-custom .nav-item .nav-link {
+                padding: 0.25rem 0.75rem;
+        }
+        
+        .navbar-custom.top-nav-collapse {
+        padding: 0.5rem 1.5rem 0.5rem 2rem;
+                background-color: #f7fafd;
+                box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .ex-basic-2 .text-container.dark {
+                padding: 2.5rem 3rem 2rem 3rem;
+        }
+*****
+
+***** styles.css
+
+        .navbar-custom.top-nav-collapse .nav-item .nav-link {
+                color: #333;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .ex-basic-2 .form-container {
+                margin-top: 0;
+        }
+        /* end of extra pages */
+}
+/* end of min-width 768px */
+
+
+/* Min-width 992px */
+@media (min-width: 992px) {
+        
+        /* General Styles */
+        .p-heading {
+                width: 80%;
+                margin-right: auto;
+                margin-left: auto;
+        }
+*****
+
+***** styles.css
+
+        .navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
+        .navbar-custom.top-nav-collapse .nav-item .nav-link.active {
+                color: #ff556e;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        h1 {
+                font-size: 3rem;
+                line-height: 3.875rem;
+        }
+        
+        h2 {
+                font-size: 2.5rem;
+                line-height: 3.25rem;
+        }
+        /* end of general styles */
+
+
+        /* Navigation */
+        .navbar-custom {
+                padding: 2.125rem 1.5rem 2.125rem 2rem;
+        background: transparent;
+                box-shadow: none;
+        }
+        
+        .navbar-custom .navbar-nav {
+                margin-top: 0;
+                margin-bottom: 0;
+        }
+*****
+
+***** styles.css
+
+        .navbar-custom .dropdown-menu {
+                padding-top: 1rem;
+                padding-bottom: 1rem;
+                border-top: 0.75rem solid rgba(0, 0, 0, 0);
+                border-radius: 0.25rem;
+                box-shadow: 0 0.375rem 0.375rem 0 rgba(0, 0, 0, 0.1);
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .navbar-custom .nav-item .nav-link {
+                padding: 0.25rem 0.75rem;
+        }
+        
+        .navbar-custom.top-nav-collapse {
+        padding: 0.5rem 1.5rem 0.5rem 2rem;
+                background-color: #f7fafd;
+                box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
+        }
+*****
+
+***** styles.css
+
+        .navbar-custom.top-nav-collapse .dropdown-menu {
+                border-top: 0.75rem solid rgba(0, 0, 0, 0);
+                box-shadow: 0 0.375rem 0.375rem 0 rgba(0, 0, 0, 0.1);
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .navbar-custom.top-nav-collapse .nav-item .nav-link {
+                color: #333;
+        }
+*****
+
+***** styles.css
+
+        .navbar-custom .dropdown-item {
+                padding-top: 0.25rem;
+                padding-bottom: 0.25rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
+        .navbar-custom.top-nav-collapse .nav-item .nav-link.active {
+                color: #ff556e;
+        }
+*****
+
+***** styles.css
+
+        .navbar-custom .dropdown-divider {
+                width: 84%;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .navbar-custom .dropdown-menu {
+                padding-top: 1rem;
+                padding-bottom: 1rem;
+                border-top: 0.75rem solid rgba(0, 0, 0, 0);
+                border-radius: 0.25rem;
+                box-shadow: 0 0.375rem 0.375rem 0 rgba(0, 0, 0, 0.1);
+        }
+*****
+
+***** styles.css
+
+        .navbar-custom .nav-item .btn-outline-sm {
+                margin-top: 0;
+                margin-bottom: 0;
+                margin-left: 0.625rem;
+        }
+        /* end of navigation */
+
+
+        /* Header */
+        .header {
+                padding-top: 12rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .navbar-custom.top-nav-collapse .dropdown-menu {
+                border-top: 0.75rem solid rgba(0, 0, 0, 0);
+                box-shadow: 0 0.375rem 0.375rem 0 rgba(0, 0, 0, 0.1);
+        }
+*****
+
+***** styles.css
+
+        .header h1 {
+                font-size: 4rem;
+                line-height: 4.875rem;
+                letter-spacing: -1px;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .navbar-custom .dropdown-item {
+                padding-top: 0.25rem;
+                padding-bottom: 0.25rem;
+        }
+*****
+
+***** styles.css
+
+        .header .deco-white-circle-1 {
+                position: absolute;
+                top: 26rem;
+                left: -12rem;
+                display: block;
+                width: 22rem;
+                height: 22rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .navbar-custom .dropdown-divider {
+                width: 84%;
+        }
+*****
+
+***** styles.css
+
+        .header .deco-white-circle-2 {
+                position: absolute;
+                top: 19rem;
+                right: -12rem;
+                display: block;
+                width: 20rem;
+                height: 20rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .navbar-custom .nav-item .btn-outline-sm {
+                margin-top: 0;
+                margin-bottom: 0;
+                margin-left: 0.625rem;
+        }
+        /* end of navigation */
+
+
+        /* Header */
+        .header {
+                padding-top: 12rem;
+        }
+*****
+
+***** styles.css
+
+        .header .deco-blue-circle {
+                position: absolute;
+                top: 28rem;
+                left: 5rem;
+                display: block;
+                width: 5rem;
+                height: 5rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .header h1 {
+                font-size: 4rem;
+                line-height: 4.875rem;
+                letter-spacing: -1px;
+        }
+*****
+
+***** styles.css
+
+        .header .deco-yellow-circle {
+                position: absolute;
+                top: 9rem;
+                right: 7rem;
+                display: block;
+                width: 1.5rem;
+                height: 1.5rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .header .deco-white-circle-1 {
+                position: absolute;
+                top: 26rem;
+                left: -12rem;
+                display: block;
+                width: 22rem;
+                height: 22rem;
+        }
+*****
+
+***** styles.css
+
+        .header .deco-green-diamond {
+                position: absolute;
+***** STYLES-TEMPLATE.CSS
+
+        .header .deco-white-circle-2 {
+                position: absolute;
+                top: 19rem;
+                right: -12rem;
+                display: block;
+                width: 20rem;
+                height: 20rem;
+        }
+
+        .header .deco-blue-circle {
+                position: absolute;
+                top: 28rem;
+                left: 5rem;
+                display: block;
+                width: 5rem;
+                height: 5rem;
+        }
+
+        .header .deco-yellow-circle {
+                position: absolute;
+*****
+
+***** styles.css
+                top: 9rem;
+                left: 4rem;
+***** STYLES-TEMPLATE.CSS
+                top: 9rem;
+                right: 7rem;
+                display: block;
+                width: 1.5rem;
+                height: 1.5rem;
+        }
+
+        .header .deco-green-diamond {
+                position: absolute;
+                top: 9rem;
+                left: 4rem;
+*****
+
+***** styles.css
+
+        /* Description 2 */
+        .tabs .tabs-container {
+                margin-bottom: 0;
+        }
+        /* end of description 2 */
+
+
+        /* Features */
+        .basic-2 {
+                padding-bottom: 8rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        /* Description 1 Details Lightbox */
+        .lightbox-basic {
+                padding: 3rem 3rem;
+        }
+*****
+
+***** styles.css
+
+        .basic-2 .list-unstyled {
+                margin-top: 2.5rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .lightbox-basic .image-container {
+                margin-bottom: 0;
+                text-align: left;
+        }
+        /* end of description 1 details lightbox */
+
+
+        /* Description 2 */
+        .tabs .tabs-container {
+                margin-bottom: 0;
+        }
+        /* end of description 2 */
+
+
+        /* Features */
+        .basic-2 {
+                padding-bottom: 8rem;
+        }
+*****
+
+***** styles.css
+
+        .basic-2 .li-space-lg li {
+                margin-bottom: 1.875rem;
+        }
+***** STYLES-TEMPLATE.CSS
+
+        .basic-2 .list-unstyled {
+                margin-top: 2.5rem;
+        }
+*****
+
+***** styles.css
+
+        .basic-2 .li-space-lg.first li:last-of-type  {
+                margin-bottom: 1.875rem;
+***** STYLES-TEMPLATE.CSS
+
+        .basic-2 .li-space-lg li {
+                margin-bottom: 1.875rem;
+*****
+
+***** styles.css
+        }
+        
+***** STYLES-TEMPLATE.CSS
+        }
+
+        .basic-2 .li-space-lg.first li:last-of-type  {
+                margin-bottom: 1.875rem;
+        }
+        
+*****
+
+***** styles.css
+
+        /* Reviews */
+        .cards-2 .card {
+***** STYLES-TEMPLATE.CSS
+
+        /* Testimonials */
+        .cards-2 .card {
+*****
+
+***** styles.css
+                margin-left: 0.5rem;
+                vertical-align: center;
+        }
+***** STYLES-TEMPLATE.CSS
+                margin-left: 0.5rem;
+                vertical-align: top;
+        }
+*****
+
+***** styles.css
+        }
+        /* end of reviews */
+
+***** STYLES-TEMPLATE.CSS
+        }
+        /* end of testimonials */
+
+*****
+
+***** styles.css
+        .footer .footer-col.first {
+                display:none;
+        }
+***** STYLES-TEMPLATE.CSS
+        .footer .footer-col.first {
+                display: none;
+        }
+*****
+
+***** styles.css
+        .footer .footer-col.fourth {
+                width: 300px;
+        }
+***** STYLES-TEMPLATE.CSS
+        .footer .footer-col.fourth {
+                width: 11.5rem;
+        }
+*****
+
+***** styles.css
+
+        /* Description 2 */
+***** STYLES-TEMPLATE.CSS
+
+        /* Dscription 1 Details Lightbox */
+        .lightbox-basic .image-container {
+                margin-right: 1.5rem;
+        }
+        /* end of description 1 details lightbox */
+
+
+        /* Description 2 */
+*****
+
+***** styles.css
+
+        /* Reviews */
+        .cards-2 .card {
+***** STYLES-TEMPLATE.CSS
+
+        /* Testimonials */
+        .cards-2 .card {
+*****
+
+***** styles.css
+        }
+        /* end of reviews */
+
+***** STYLES-TEMPLATE.CSS
+        }
+        /* end of testimonials */
+
+*****
+
